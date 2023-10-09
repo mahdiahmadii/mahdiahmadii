@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Myself <b>Mahdi</b>, a newly <b>Computer Engineering Student</b> in <b>Yazd University</b>, Yazd.
+    Myself <b>Mahdi</b>, a newly <b>Computer Engineering Student</b> at <b>Yazd University</b>, Yazd.
     An aspiring <b>Web developing,</b>&nbsp; &nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
