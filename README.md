@@ -14,7 +14,7 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently Interested in Front-End Web Development.
+- 🔭 I’m currently Interested in Back-End Web Development.
 - 👯 I’m looking to collaborate wit projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 <br>
@@ -22,7 +22,7 @@
 ---
 
 <details>
-<summary>
+<!-- <summary>
   ✨ Tech stack currently using:
 </summary>
    <br>
@@ -40,7 +40,8 @@
 <br>
 
 <details>
-<summary>
+  
+<!--<summary>
   🌱 Looking forward to learn:
 </summary>
 <br>
@@ -48,7 +49,7 @@
 <code><a href="" terget="_blank"><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></a> </code>
 <code><a href="" terget="_blank"><img height="30" src="https://www.svgrepo.com/show/353657/django-icon.svg"></a> </code>
 <code><a href="" terget="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/768px-UbuntuCoF.svg.png"></a> </code>
-<code><a href="" terget="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/768px-WordPress_blue_logo.svg.png"></a> </code>
+<code><a href="" terget="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/768px-WordPress_blue_logo.svg.png"></a> </code> -->
 <!-- <code><a href="" terget="_blank"><img height="30" src=""></a> </code> -->
 
 </details>
